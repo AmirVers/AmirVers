@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="160" src="https://i.pinimg.com/564x/06/b3/47/06b347fb58fc9ad895ea3b7e3528f509.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="8" />
@@ -35,18 +31,22 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/564x/06/b3/47/06b347fb58fc9ad895ea3b7e3528f509.jpg"  />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/versolom/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="amirka069@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="Versettir" target="_blank">
+  <a href="https://t.me/Versettir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/amirloa905" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://discordapp.com/users/basenjoyer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
