@@ -45,9 +45,13 @@
   <a href="https://www.hackerrank.com/profile/amirloa905" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  </a> <a href="https://www.leetcode.com/versolom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="versolom" height="30" width="40" /></a>
+  
   <a href="https://discordapp.com/users/basenjoyer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.leetcode.com/versolom" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+  generator/master/src/images/icons/Social/leet-code.svg" alt="versolom" height="35" />
   </a>
 </div>
 
