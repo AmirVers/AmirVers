@@ -54,7 +54,7 @@
 
 ###
 
-<img align="right" height="385" src="https://i.pinimg.com/564x/06/b3/47/06b347fb58fc9ad895ea3b7e3528f509.jpg"  />
+<img align="right" height="385" width="400" src="https://i.pinimg.com/564x/06/b3/47/06b347fb58fc9ad895ea3b7e3528f509.jpg"  />
 
 ###
 
