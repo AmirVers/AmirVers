@@ -52,15 +52,13 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/AmirVers/AmirVers/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/317xbyrvv7m4vddalbx2xnjmrk5a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Loa&count=1&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317xbyrvv7m4vddalbx2xnjmrk5a&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
