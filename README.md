@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning ** Python, Typescript, Rust **<br><br>- ⚡ Fun fact  ** I love solving Leetcode problems **</p>
+<p align="left">- 🌱 I’m currently learning ** Python**<br><br></p>
 
 ###
 
