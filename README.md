@@ -16,8 +16,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
@@ -30,21 +28,11 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
 </div>
 
 ###
 
 <div align="left">
-
-  <a href="https://t.me/Versettir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-
-  
-  <a href="https://discordapp.com/users/basenjoyer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   </a> <a href="https://www.leetcode.com/versolom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="versolom" height="35" width="40" /></a>
 </div>
 
@@ -52,12 +40,3 @@
 
 <img align="right" height="285" width="400" src="https://i.pinimg.com/564x/06/b3/47/06b347fb58fc9ad895ea3b7e3528f509.jpg"  />
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/317xbyrvv7m4vddalbx2xnjmrk5a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317xbyrvv7m4vddalbx2xnjmrk5a&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
